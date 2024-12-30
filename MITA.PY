@@ -1,3 +1,5 @@
+# Version: 0.1.1Beta
+# Author: juzi
 import os
 import zipfile
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout, QFileDialog, QMessageBox, QLabel, QTextEdit, QDialog
